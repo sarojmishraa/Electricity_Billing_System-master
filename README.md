@@ -71,6 +71,4 @@ Java communicates with MySQL tables using JDBC which stands for Java Database Co
 
 <img src="https://github.com/sarojmishraa/Electricity_Billing_System-master/blob/main/ScreenShots/GenerateBill.JPG" width="800" height="300">
 
-## Generate Bill
 
-<img src="https://github.com/sarojmishraa/Electricity_Billing_System/blob/master/ScreenShots/GenerateBill.JPG" width="400" height="700">
